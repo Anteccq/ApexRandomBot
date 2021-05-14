@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ApexRandomKun": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
