@@ -23,7 +23,8 @@ namespace ApexRandomBot
             "パスファインダー",
             "クリプト",
             "ヒューズ",
-            "ヴァルキリー"
+            "ヴァルキリー",
+            "シア"
         };
 
         public Legend() => _rand = GatchaUtil.GenerateRandom();

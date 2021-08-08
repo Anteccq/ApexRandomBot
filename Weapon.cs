@@ -32,7 +32,8 @@ namespace ApexRandomBot
             "P2020",
             "ウィングマン",
             "30-30 リピーター",
-            "ボセックボウ"
+            "ボセックボウ",
+            "ランページLMG"
         };
 
         public Weapon() => _rand = GatchaUtil.GenerateRandom();

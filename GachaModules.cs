@@ -38,10 +38,10 @@ namespace ApexRandomBot
         }
 
         [Command("help")]
-        public async Task HelpAsync()
+        public async Task HelpAsync()   
         {
             var footer = new EmbedFooterBuilder()
-                .WithText("シーズン9まで対応しています。");
+                .WithText("シーズン10まで対応しています。");
 
             var eb = new EmbedBuilder()
             {
