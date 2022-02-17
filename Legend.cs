@@ -25,7 +25,8 @@ namespace ApexRandomBot
             "ヒューズ",
             "ヴァルキリー",
             "シア",
-            "アッシュ"
+            "アッシュ",
+            "マッドマギー"
         };
 
         public Legend() => _rand = GatchaUtil.GenerateRandom();
