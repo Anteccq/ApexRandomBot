@@ -6,6 +6,6 @@ namespace ApexRandomBot
 {
     public class ApexVersion
     {
-        public const string SupportedVersion = "11";
+        public const string SupportedVersion = "12";
     }
 }
