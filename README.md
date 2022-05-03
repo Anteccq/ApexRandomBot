@@ -1,5 +1,9 @@
 #  Apex Random Bot
->Apex のレジェンドとガチャをランダムで決めてくれる Discord Bot です。
+
+この Bot は新しくリニューアルしました！
+移動先は[**こちら**](https://github.com/Anteccq/ApexRandomGachaBot)
+
+>Apex のレジェンドと武器をランダムで決めてくれる Discord Bot です。
 
 この Discord Bot を動かすには、`appsettings.{Environment}.json` ファイルが必要です。
 
