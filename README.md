@@ -1,7 +1,11 @@
 #  Apex Random Bot
 
-この Bot は新しくリニューアルしました！
+## 移転しました
+本 Bot は別リポジトリにてリニューアルしました！
+
 移動先は[**こちら**](https://github.com/Anteccq/ApexRandomGachaBot)
+
+## 概要
 
 >Apex のレジェンドと武器をランダムで決めてくれる Discord Bot です。
 
